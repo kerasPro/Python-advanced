@@ -1,0 +1,17 @@
+[project]
+name = "python-advanced"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "category-encoders>=2.9.0",
+    "ipykernel>=7.1.0",
+    "jupyter-client>=8.7.0",
+    "matplotlib>=3.10.8",
+    "numpy>=1.24,<2.4",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "shap>=0.49.1",
+    "xgboost>=3.1.2",
+]
